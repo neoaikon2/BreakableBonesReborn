@@ -1,0 +1,10 @@
+{
+  "name": "BreakableBonesReborn",
+  "version_number": "1.0.0",
+  "description": "Breakable Bones that work out of the box, with sound effects!",
+  "website_url": "https://www.github.com/neoaikon2/BreakableBonesReborn",
+  "dependencies": [
+    "gnonme-BoneLib-2.2.0",
+    "TrevTV-AudioImportLib-1.2.0"
+  ]
+}
